@@ -6,7 +6,7 @@ function checkPassword() {
     if (passwordInput === correctPassword) {
         window.location.href = "message.html"; // The next page
     } else {
-        alert("Incorrect password. Please try again.");
+        alert("This is not the password, try again!");
     }
 }
 

@@ -7,7 +7,7 @@ body {
     text-align: center;
 }
 
-.container {
+.container_Javier {
     background-color: #4bbfed;
     max-width: 400px;
     margin: 100px auto;
@@ -21,7 +21,7 @@ h1 {
 }
 
 input[type="text"] {
-    width: 100%;
+    width: 80%;
     padding: 10px;
     margin-bottom: 10px;
     border: 1px solid #ccc;
@@ -39,4 +39,6 @@ button {
 
 button:hover {
     background-color: #0056b3;
+
+    
 }
